@@ -1,1 +1,1 @@
-hola
+Proyecto de portafolio que utiliza tecnologías web como HTML, CSS y JavaScript. Además, hace uso de recursos como Google Fonts para importar fuentes personalizadas y SVG para los íconos del encabezado. El CSS se utiliza para aplicar estilos personalizados, y se incluyen enlaces externos a hojas de estilo y fuentes alojadas en servidores externos.
